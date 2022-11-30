@@ -2,22 +2,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2rem 6rem; 
-    border-style: solid;
-    border-color: red;
+    padding: 2rem 6rem;
 }
 
 .gpt3_navbar_links {
     flex: 1;
     display: flex;
     align-items: center;
-    /* border-color: green;
-    border-style: solid; */
 }
 
 .gpt3_navbar_links_logo {
-    /* border-color: orange;
-    border-style: solid; */
     margin-right: 2rem;
 }
 
@@ -34,9 +28,6 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    /* background-color: red; */
-    /* border-style: solid;
-    border-color: pink; */
 }
 
 .gpt3_navbar-sign button,
@@ -72,8 +63,6 @@
     margin-left: 1rem;
     display: none;
     position: relative;
-    /* border-color: blue; */
-    /* border-style: solid; */
 }
 
 .gpt3_navbar_menu svg {
